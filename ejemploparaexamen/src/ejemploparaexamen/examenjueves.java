@@ -7,6 +7,7 @@ public class examenjueves {
 		System.out.print("hola");
 		System.out.println("HEELLOO");
 		System.out.println("heeeeeellooooo");
+		System.out.println("HELLLOOSOSOSOS");
 	}
 
 }
